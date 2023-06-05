@@ -1,0 +1,2 @@
+/usr/bin/ar qc libvfb-push.a CMakeFiles/vfb-push.dir/vfb-push.cpp.o
+/usr/bin/ranlib libvfb-push.a

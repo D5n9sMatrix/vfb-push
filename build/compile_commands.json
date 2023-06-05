@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/denis/vfb-net/vfb-push/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/vfb-push.dir/vfb-push.cpp.o -c /home/denis/vfb-net/vfb-push/vfb-push.cpp",
+  "file": "/home/denis/vfb-net/vfb-push/vfb-push.cpp"
+}
+]
